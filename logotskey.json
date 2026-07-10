@@ -6,7 +6,13 @@
         }
     ],
     "licenses": [       
-          {
+        {
+            "name": "ANEES",
+            "key": "ANE8765",
+            "expiry": "2026-08-10",
+            "mode": "vip"
+        },         
+        {
             "name": "ABHI SINGH",
             "key": "BULBUL96",
             "expiry": "2026-08-09",
