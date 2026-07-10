@@ -5,7 +5,13 @@
             "downloadlink": "https://tatka.zuna.id/storage/LOGO%20TS%20PC%20%26%20MOB%20v2.1.0.zip"
         }
     ],
-    "licenses": [
+    "licenses": [       
+          {
+            "name": "ABHI SINGH",
+            "key": "BULBUL96",
+            "expiry": "2026-08-09",
+            "mode": "vip"
+        },
         {
             "name": "ANSARI",
             "key": "VSGP6361",
