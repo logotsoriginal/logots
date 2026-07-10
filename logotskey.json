@@ -5,7 +5,13 @@
             "downloadlink": "https://www.mediafire.com/file/v1cal92sr77xqcd/LOGO+TS+MOBILE+PC.zip/file"
         }
     ],
-    "licenses": [       
+    "licenses": [      
+         {
+            "name": "SHUBHAM GUPTA",
+            "key": "DJDG3735",
+            "expiry": "2026-08-10",
+            "mode": "vip"
+        },          
         {
             "name": "ANEES",
             "key": "ANE8765",
