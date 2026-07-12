@@ -457,8 +457,10 @@
         {
             "name": "DEMO",
             "key": "ANPP2585",
-            "expiry": "2026-08-12",
-            "mode": "vip"
+            "expiry": "2026-09-12",
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         }
     ]
 }
