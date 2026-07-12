@@ -12,7 +12,9 @@
             "expiry": "2026-08-11",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SHIVAM",
@@ -20,7 +22,9 @@
             "expiry": "2026-08-10",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "TATKAL GURU",
@@ -28,7 +32,9 @@
             "expiry": "2026-08-10",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SHUBHAM GUPTA",
@@ -36,7 +42,9 @@
             "expiry": "2026-08-10",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ANEES",
@@ -44,7 +52,9 @@
             "expiry": "2026-08-10",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ABHI SINGH",
@@ -52,7 +62,9 @@
             "expiry": "2026-08-09",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ANSARI",
@@ -60,7 +72,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SAMEER SHAIKH",
@@ -68,7 +82,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "CHUDAI",
@@ -76,7 +92,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "CHUDAI2",
@@ -84,7 +102,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "MONTU P",
@@ -92,7 +112,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ROCKY KUMAR",
@@ -100,7 +122,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "FAIYAZ AHMED",
@@ -108,7 +132,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SUBHAS",
@@ -116,7 +142,9 @@
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "MICHAEL",
@@ -124,7 +152,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "HYPERMX",
@@ -132,7 +162,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAHUL DAS",
@@ -140,7 +172,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SANI KUMAR",
@@ -148,7 +182,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SONU SINGH",
@@ -156,7 +192,9 @@
             "expiry": "2026-07-20",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#eab308"
+            "dot_color": "#eab308",
+            "c": "#eab308",
+            "x": 0
         },
         {
             "name": "ISHU",
@@ -164,7 +202,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "THE RUNEWAY",
@@ -172,7 +212,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "VIBHSHAN RAJ",
@@ -180,7 +222,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAVI KUMAR",
@@ -188,7 +232,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SALIM KHAN",
@@ -196,7 +242,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ABHI SHEK",
@@ -204,7 +252,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "DIP DOLAI",
@@ -212,7 +262,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "VIKRAM",
@@ -220,7 +272,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "DEEPAK KUMAR",
@@ -228,7 +282,9 @@
             "expiry": "2026-08-01",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAJA BHAI",
@@ -236,7 +292,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SIMA",
@@ -244,7 +302,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "HITMAN GOWIN",
@@ -252,7 +312,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAHUL HGGV",
@@ -260,7 +322,9 @@
             "expiry": "2026-08-04",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "TAFSEER AHMAD",
@@ -268,7 +332,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAJESH",
@@ -276,7 +342,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "KOLE",
@@ -284,7 +352,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RAJU KHAN",
@@ -292,7 +362,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "JIMMY KASHYAP",
@@ -300,7 +372,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SURAJIT BASAK",
@@ -308,7 +382,9 @@
             "expiry": "2026-08-05",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SURYA",
@@ -316,7 +392,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "AMAT KUMAR",
@@ -324,7 +402,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "MEHRAB ALAM",
@@ -332,7 +412,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "KANKAN BISWAS",
@@ -340,7 +422,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SK SK",
@@ -348,7 +432,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SUPERMAN",
@@ -356,7 +442,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "NAYAB JAISWAR",
@@ -364,7 +452,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "DAVID ALI",
@@ -372,7 +462,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "UMAR FARUK",
@@ -380,7 +472,9 @@
             "expiry": "2026-08-06",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SANJANA",
@@ -388,7 +482,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "JAI RAM",
@@ -396,7 +492,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "NN KUMAR",
@@ -404,7 +502,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "MITHUN DAS",
@@ -412,7 +512,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "RATNESH RAJBHAR",
@@ -420,7 +522,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "ABDUL KADIR",
@@ -428,7 +532,9 @@
             "expiry": "2026-08-07",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "SAKALALA BOMBOM",
@@ -436,7 +542,9 @@
             "expiry": "2026-08-09",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "MANISH GIRI",
@@ -444,7 +552,9 @@
             "expiry": "2026-08-09",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
         },
         {
             "name": "NICE TOP",
@@ -452,7 +562,15 @@
             "expiry": "2026-08-12",
             "mode": "vip",
             "status_flag": "active",
-            "dot_color": "#22c55e"
+            "dot_color": "#22c55e",
+            "c": "#22c55e",
+            "x": 0
+        },
+        {
+            "name": "USR_4EUM",
+            "key": "OKUS3022",
+            "expiry": "2026-08-12",
+            "mode": "vip"
         }
     ]
 }
