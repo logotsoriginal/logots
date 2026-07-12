@@ -10,335 +10,453 @@
             "name": "KUNAL K",
             "key": "KUNL4647",
             "expiry": "2026-08-11",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SHIVAM",
             "key": "HGHHUY666",
             "expiry": "2026-08-10",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "TATKAL GURU",
             "key": "DSGHU735",
             "expiry": "2026-08-10",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SHUBHAM GUPTA",
             "key": "DJDG3735",
             "expiry": "2026-08-10",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ANEES",
             "key": "ANE8765",
             "expiry": "2026-08-10",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ABHI SINGH",
             "key": "BULBUL96",
             "expiry": "2026-08-09",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ANSARI",
             "key": "VSGP6361",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SAMEER SHAIKH",
             "key": "GUVD3418",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "CHUDAI",
             "key": "FLRL1405",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "CHUDAI2",
             "key": "AKVQ4567",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "MONTU P",
             "key": "CTCZ5107",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ROCKY KUMAR",
             "key": "NKEE9987",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "FAIYAZ AHMED",
             "key": "AWYQ8614",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SUBHAS",
             "key": "ATAK2312",
             "expiry": "2026-08-03",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "MICHAEL",
             "key": "BZDH5204",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "HYPERMX",
             "key": "TVAJ0918",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAHUL DAS",
             "key": "DKPN3942",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SANI KUMAR",
             "key": "WJTM2028",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SONU SINGH",
             "key": "XZYX8290",
             "expiry": "2026-07-20",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#eab308"
         },
         {
             "name": "ISHU",
             "key": "IMCI5052",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "THE RUNEWAY",
             "key": "FXOD9256",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "VIBHSHAN RAJ",
             "key": "TSBC1940",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAVI KUMAR",
             "key": "MNJA2406",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SALIM KHAN",
             "key": "KJVP7578",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ABHI SHEK",
             "key": "YDPJ8485",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "DIP DOLAI",
             "key": "KRJW8474",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "VIKRAM",
             "key": "IORG8217",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "DEEPAK KUMAR",
             "key": "ZIGY2311",
             "expiry": "2026-08-01",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAJA BHAI",
             "key": "RQMV3180",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SIMA",
             "key": "FBTB4944",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "HITMAN GOWIN",
             "key": "YRUR4752",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAHUL HGGV",
             "key": "IDQH4034",
             "expiry": "2026-08-04",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "TAFSEER AHMAD",
             "key": "HVAR0229",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAJESH",
             "key": "ZKCI9621",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "KOLE",
             "key": "KOLE8080",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RAJU KHAN",
             "key": "YHEE9044",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "JIMMY KASHYAP",
             "key": "BFHK2391",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SURAJIT BASAK",
             "key": "GVFD9345",
             "expiry": "2026-08-05",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SURYA",
             "key": "KESO2801",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "AMAT KUMAR",
             "key": "AKTR2625",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "MEHRAB ALAM",
             "key": "HYVT2996",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "KANKAN BISWAS",
             "key": "DBGC2500",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SK SK",
             "key": "BQBV2708",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SUPERMAN",
             "key": "EGOQ9667",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "NAYAB JAISWAR",
             "key": "CQFT1754",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "DAVID ALI",
             "key": "IOTA3727",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "UMAR FARUK",
             "key": "QAOQ9831",
             "expiry": "2026-08-06",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SANJANA",
             "key": "BJVD5698",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "JAI RAM",
             "key": "ZUHV4677",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "NN KUMAR",
             "key": "RGDC5363",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "MITHUN DAS",
             "key": "ENTK8927",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "RATNESH RAJBHAR",
             "key": "AANH8480",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "ABDUL KADIR",
             "key": "FVHP3368",
             "expiry": "2026-08-07",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "SAKALALA BOMBOM",
             "key": "ZOSM1460",
             "expiry": "2026-08-09",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "MANISH GIRI",
             "key": "OPAT2210",
             "expiry": "2026-08-09",
-            "mode": "vip"
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
         },
         {
             "name": "NICE TOP",
             "key": "STDO5094",
+            "expiry": "2026-08-12",
+            "mode": "vip",
+            "status_flag": "active",
+            "dot_color": "#22c55e"
+        },
+        {
+            "name": "DEMO",
+            "key": "ANPP2585",
             "expiry": "2026-08-12",
             "mode": "vip"
         }
