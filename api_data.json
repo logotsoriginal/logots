@@ -1,5 +1,5 @@
 {
-  "api_url": "https://messenge.xo.je/api_data.php",
-  "captcha_mode1_url": "https://imagetext.io/api/extract-text",
-  "captcha_mode2_url": "https://capcha3.netlify.app/api/ocr"
+    "api_url": "https://messenge.xo.je/api_data.phps",
+    "captcha_mode1_url": "https://imagetext.io/api/extract-text",
+    "captcha_mode2_url": "https://capcha3.netlify.app/api/ocr"
 }
