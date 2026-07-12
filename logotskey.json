@@ -341,12 +341,6 @@
             "key": "STDO5094",
             "expiry": "2026-08-12",
             "mode": "vip"
-        },
-        {
-            "name": "1",
-            "key": "FCGE8167",
-            "expiry": "2026-08-12",
-            "mode": "vip"
         }
     ]
 }
