@@ -565,6 +565,12 @@
             "dot_color": "#22c55e",
             "c": "#22c55e",
             "x": 0
+        },
+        {
+            "name": "MR DILLU",
+            "key": "TSBO1971",
+            "expiry": "2026-08-13",
+            "mode": "vip"
         }
     ]
 }
