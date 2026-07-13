@@ -565,12 +565,6 @@
             "dot_color": "#22c55e",
             "c": "#22c55e",
             "x": 0
-        },
-        {
-            "name": "USR_4EUM",
-            "key": "OKUS3022",
-            "expiry": "2026-08-12",
-            "mode": "vip"
         }
     ]
 }
