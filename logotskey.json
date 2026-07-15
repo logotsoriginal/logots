@@ -1,8 +1,8 @@
 {
     "update_log": [
         {
-            "version": "2.1.4",
-            "downloadlink": "https://www.mediafire.com/file/tmwh8haoc32kqkt/LOGO+TS+v2.1.4+.zip/file"
+            "version": "2.1.5",
+            "downloadlink": "https://www.mediafire.com/file/e6yyj7oyzzbbibw/LOGO+TS+v2.1.5+.zip/file"
         }
     ],
     "licenses": [
@@ -578,7 +578,9 @@
             "name": "KRISHNAMOHAN SAHANI",
             "key": "VAIE3013",
             "expiry": "2026-08-15",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "#22c55e",
+            "x": 0
         }
     ]
 }
