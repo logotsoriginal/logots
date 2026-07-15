@@ -570,6 +570,14 @@
             "name": "MR DILLU",
             "key": "TSBO1971",
             "expiry": "2026-08-13",
+            "mode": "vip",
+            "c": "#22c55e",
+            "x": 0
+        },
+        {
+            "name": "KRISHNAMOHAN SAHANI",
+            "key": "VAIE3013",
+            "expiry": "2026-08-15",
             "mode": "vip"
         }
     ]
