@@ -581,6 +581,12 @@
             "mode": "vip",
             "c": "#22c55e",
             "x": 0
+        },
+        {
+            "name": "DEMO",
+            "key": "DEMO0101",
+            "expiry": "2026-08-16",
+            "mode": "vip"
         }
     ]
 }
