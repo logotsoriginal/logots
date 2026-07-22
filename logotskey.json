@@ -193,8 +193,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#eab308",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "ISHU",
@@ -581,12 +581,6 @@
             "mode": "vip",
             "c": "#22c55e",
             "x": 0
-        },
-        {
-            "name": "DEMO",
-            "key": "DEMO0101",
-            "expiry": "2026-08-16",
-            "mode": "vip"
         }
     ]
 }
