@@ -187,16 +187,6 @@
             "x": 0
         },
         {
-            "name": "SONU SINGH",
-            "key": "XZYX8290",
-            "expiry": "2026-07-20",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#eab308",
-            "c": "#ef4444",
-            "x": 1
-        },
-        {
             "name": "ISHU",
             "key": "IMCI5052",
             "expiry": "2026-08-04",
@@ -283,7 +273,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
