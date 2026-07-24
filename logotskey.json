@@ -571,6 +571,12 @@
             "mode": "vip",
             "c": "#22c55e",
             "x": 0
+        },
+        {
+            "name": "MD MURTAZA AZHAR",
+            "key": "NBWD6377",
+            "expiry": "2026-08-24",
+            "mode": "vip"
         }
     ]
 }
