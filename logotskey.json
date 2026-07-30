@@ -63,7 +63,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -533,7 +533,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -543,7 +543,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -587,12 +587,6 @@
             "mode": "vip",
             "c": "#22c55e",
             "x": 0
-        },
-        {
-            "name": "USR_HODE",
-            "key": "MIAE9994",
-            "expiry": "2026-08-30",
-            "mode": "vip"
         }
     ]
 }
