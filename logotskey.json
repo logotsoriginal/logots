@@ -573,14 +573,6 @@
             "x": 0
         },
         {
-            "name": "USR_4OLV",
-            "key": "RQLA1186",
-            "expiry": "2026-08-26",
-            "mode": "vip",
-            "c": "#22c55e",
-            "x": 0
-        },
-        {
             "name": "USR_UW1C",
             "key": "PWZE3805",
             "expiry": "2026-08-31",
@@ -592,7 +584,9 @@
             "name": "USR_1D33",
             "key": "AMEH0723",
             "expiry": "2026-08-31",
-            "mode": "vip"
+            "mode": "vip",
+            "c": "#22c55e",
+            "x": 0
         }
     ]
 }
