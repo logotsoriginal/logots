@@ -13,7 +13,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -23,7 +23,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -33,7 +33,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -43,7 +43,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -53,7 +53,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -67,24 +67,14 @@
             "x": 0
         },
         {
-            "name": "ANSARI",
-            "key": "VSGP6361",
-            "expiry": "2026-08-03",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
-        },
-        {
             "name": "SAMEER SHAIKH",
             "key": "GUVD3418",
             "expiry": "2026-08-03",
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "CHUDAI",
@@ -93,8 +83,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "CHUDAI2",
@@ -103,8 +93,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "MONTU P",
@@ -113,8 +103,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "ROCKY KUMAR",
@@ -123,8 +113,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "FAIYAZ AHMED",
@@ -133,8 +123,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SUBHAS",
@@ -143,8 +133,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "MICHAEL",
@@ -153,8 +143,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "HYPERMX",
@@ -163,8 +153,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAHUL DAS",
@@ -173,8 +163,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SANI KUMAR",
@@ -183,8 +173,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "ISHU",
@@ -193,8 +183,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "THE RUNEWAY",
@@ -203,8 +193,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "VIBHSHAN RAJ",
@@ -213,8 +203,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAVI KUMAR",
@@ -223,8 +213,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SALIM KHAN",
@@ -233,8 +223,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "ABHI SHEK",
@@ -243,8 +233,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "DIP DOLAI",
@@ -253,8 +243,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "VIKRAM",
@@ -263,8 +253,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "DEEPAK KUMAR",
@@ -273,8 +263,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAJA BHAI",
@@ -283,8 +273,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SIMA",
@@ -293,8 +283,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "HITMAN GOWIN",
@@ -303,8 +293,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAHUL HGGV",
@@ -313,8 +303,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "TAFSEER AHMAD",
@@ -323,8 +313,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAJESH",
@@ -333,8 +323,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "KOLE",
@@ -343,8 +333,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RAJU KHAN",
@@ -353,8 +343,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "JIMMY KASHYAP",
@@ -363,8 +353,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SURAJIT BASAK",
@@ -373,8 +363,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SURYA",
@@ -383,8 +373,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "AMAT KUMAR",
@@ -393,8 +383,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "MEHRAB ALAM",
@@ -403,8 +393,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "KANKAN BISWAS",
@@ -413,8 +403,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SK SK",
@@ -423,8 +413,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SUPERMAN",
@@ -433,8 +423,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "NAYAB JAISWAR",
@@ -443,8 +433,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "DAVID ALI",
@@ -453,8 +443,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "UMAR FARUK",
@@ -463,8 +453,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SANJANA",
@@ -473,8 +463,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "JAI RAM",
@@ -483,8 +473,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "NN KUMAR",
@@ -493,8 +483,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "MITHUN DAS",
@@ -503,8 +493,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "RATNESH RAJBHAR",
@@ -513,8 +503,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "ABDUL KADIR",
@@ -523,8 +513,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "SAKALALA BOMBOM",
@@ -553,7 +543,7 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -561,7 +551,7 @@
             "key": "TSBO1971",
             "expiry": "2026-08-13",
             "mode": "vip",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
@@ -569,7 +559,7 @@
             "key": "VAIE3013",
             "expiry": "2026-08-15",
             "mode": "vip",
-            "c": "#22c55e",
+            "c": "#eab308",
             "x": 0
         },
         {
