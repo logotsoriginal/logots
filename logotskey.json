@@ -63,8 +63,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "CHUDAI2",
@@ -503,8 +503,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "MANISH GIRI",
@@ -513,8 +513,8 @@
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
-            "c": "#eab308",
-            "x": 0
+            "c": "#ef4444",
+            "x": 1
         },
         {
             "name": "NICE TOP",
@@ -557,6 +557,12 @@
             "mode": "vip",
             "c": "#22c55e",
             "x": 0
+        },
+        {
+            "name": "KUNAL K",
+            "key": "SWIO5533",
+            "expiry": "2026-09-11",
+            "mode": "vip"
         }
     ]
 }
