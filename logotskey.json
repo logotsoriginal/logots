@@ -17,16 +17,6 @@
             "x": 1
         },
         {
-            "name": "SUBHAS",
-            "key": "ATAK2312",
-            "expiry": "2026-08-03",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#22c55e",
-            "c": "#ef4444",
-            "x": 1
-        },
-        {
             "name": "MICHAEL",
             "key": "BZDH5204",
             "expiry": "2026-08-04",
