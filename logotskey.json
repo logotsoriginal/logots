@@ -7,16 +7,6 @@
     ],
     "licenses": [
         {
-            "name": "RAJA BHAI",
-            "key": "RQMV3180",
-            "expiry": "2026-08-04",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#22c55e",
-            "c": "#ef4444",
-            "x": 1
-        },
-        {
             "name": "SIMA",
             "key": "FBTB4944",
             "expiry": "2026-08-04",
