@@ -7,16 +7,6 @@
     ],
     "licenses": [
         {
-            "name": "TAFSEER AHMAD",
-            "key": "HVAR0229",
-            "expiry": "2026-08-05",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#22c55e",
-            "c": "#ef4444",
-            "x": 1
-        },
-        {
             "name": "RAJESH",
             "key": "ZKCI9621",
             "expiry": "2026-08-05",
