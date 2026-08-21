@@ -9,7 +9,7 @@
         {
             "name": "KOLE",
             "key": "KOLE8080",
-            "expiry": "2026-08-05",
+            "expiry": "2026-09-05",
             "mode": "vip",
             "status_flag": "active",
             "dot_color": "#22c55e",
