@@ -17,16 +17,6 @@
             "x": 0
         },
         {
-            "name": "SURYA",
-            "key": "KESO2801",
-            "expiry": "2026-08-06",
-            "mode": "vip",
-            "status_flag": "active",
-            "dot_color": "#22c55e",
-            "c": "#ef4444",
-            "x": 1
-        },
-        {
             "name": "AMAT KUMAR",
             "key": "AKTR2625",
             "expiry": "2026-08-06",
