@@ -5,14 +5,5 @@
             "downloadlink": "https://www.mediafire.com/file/e6yyj7oyzzbbibw/LOGO+TS+v2.1.5+.zip/file"
         }
     ],
-    "licenses": [
-        {
-            "name": "USR_UW1C",
-            "key": "PWZE3805",
-            "expiry": "2026-08-31",
-            "mode": "vip",
-            "c": "#eab308",
-            "x": 0
-        }
-    ]
+    "licenses": []
 }
